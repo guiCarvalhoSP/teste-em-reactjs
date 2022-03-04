@@ -1,0 +1,10 @@
+.formulario{
+    display: flex;
+    max-width: 130px;
+    /* justify-content: ; */
+    align-items: flex-end;
+}
+
+.formulario input{
+    max-width: 130px;
+}
